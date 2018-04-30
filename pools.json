@@ -1,0 +1,18 @@
+
+[
+   {
+      "poolName":"50BTC",
+      "url":"https://50btc.com/",
+      "searchStrings":[
+         "50BTC.com",
+         "50btc.com"
+      ]
+   },
+   {
+      "poolName":"175btc",
+      "url":"http://www.175btc.com/",
+      "searchStrings":[
+         "Mined By 175btc.com"
+      ]
+   }
+]
